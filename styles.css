@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.col_tile {
+    margin-bottom: 1rem;
+}
+
+.tile {
+    position: relative;
+    box-sizing: border-box;
+    height: 100%;
+    background: #F5F5F5;
+    border: 1px solid #BDBDBD;
+    border-radius: 2px;
+    overflow: hidden;
+    color: #424242;
+    padding: 1rem;
+}
